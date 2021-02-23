@@ -9,3 +9,8 @@
 - Clase 5: Constantes
 - Clase 6: Conversión de Tipos
 - Clase 7: Concatenación e Interpolación
+- Clase 8: Operadores de Comparación
+- Clase 9: Operadores Aritméticos
+- Clase 10: Operadores de Asignación
+- Clase 11: Operadores Lógicos
+- Clase 12: If, Else, Else if
