@@ -14,3 +14,11 @@
 - Clase 10: Operadores de Asignación
 - Clase 11: Operadores Lógicos
 - Clase 12: If, Else, Else if
+- Clase 13: Switch
+- Clase 14: Bucles While y Do-While
+- Clase 15: Bucle For
+- Clase 16: Foreach
+- Calse 17: Array Indexado y Asociativo
+- Clase 18: Array Multidimensional
+- Clase 19: Funciones
+- Clase 20: Argumento de Funciones
