@@ -22,3 +22,6 @@
 - Clase 18: Array Multidimensional
 - Clase 19: Funciones
 - Clase 20: Argumento de Funciones
+- Clase 21: Devolver valores en una función
+- Clase 22: Funciones variables y anónimas
+- Clase 23: Declaraciones de tipo escalar

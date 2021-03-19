@@ -11,7 +11,8 @@
             },
             "args": [
                 "http:\\localhost\\${workspaceRootFolderName}\\${relativeFile}"
-            ]
+            ],
+            "problemMatcher": []
         }
     ]
 }
